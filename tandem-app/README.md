@@ -7,7 +7,7 @@ This application was developed using Expo Snack and Firebase as database, its ai
 # Main functionalities
 
  - Search by filtering with the language and the level that the user want
- - Going through profiles of the other User in order to choose the best on
+ - Going through profiles of the other users in order to choose the best one
  - Updating the profile with the language skills, photo profile and so on
  - Log out
  - Log in
